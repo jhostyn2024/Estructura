@@ -1,1 +1,16 @@
-En este espacio, se hará lo respectivo con la gestión de trenes
+{
+    "trenes": [
+      {
+        "id": 1,
+        "nombre": "Tren A",
+        "capacidad": 200,
+        "kilometraje": 1500
+      },
+      {
+        "id": 2,
+        "nombre": "Tren B",
+        "capacidad": 300,
+        "kilometraje": 2500
+      }
+    ]
+  }
